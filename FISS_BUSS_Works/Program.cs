@@ -15,7 +15,7 @@ namespace FISS_BUSS
 
         static string Fiss = "FISS";
         static string Buss = "BUSS";
-        // By doing it this way, I'm able to make more conditions, and eddit thouse I have 
+        // By doing it this way, I'm able to make more conditions, and eddit thouse I have
 
         static void Main(string[] args)
         {
